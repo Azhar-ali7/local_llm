@@ -86,7 +86,7 @@ This project is a PDF chatbot that allows users to upload multiple PDF files and
 
 ### Gemma
 
-Gemma2b is an LLM model used in this project. It provides the language model for generating responses to the questions based on the content of the PDF files. (It used because of the computational limitations of my system)
+Gemma2b is an LLM model used in this project. It provides the language model for generating responses to the questions based on the content of the PDF files. (It is used because of the computational limitations of my system)
 
 ### Vector Store
 
