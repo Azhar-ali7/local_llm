@@ -9,7 +9,7 @@ This project is a PDF chatbot that allows users to upload multiple PDF files and
 - [Project Structure](#project-structure)
 - [Methods](#methods)
 - [Details](#details)
-  - [Ollama](#ollama)
+  - [Ollama](#Gemma)
   - [Vector Store](#vector-store)
   - [Embeddings](#embeddings)
 
