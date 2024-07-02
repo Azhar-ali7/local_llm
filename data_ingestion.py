@@ -1,7 +1,7 @@
 import os
 from langchain.document_loaders import UnstructuredFileLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from io import BytesIO
+# from io import BytesIO
 
 def save_uploadedfile(uploadedfile):
     if not os.path.exists("tempDir"):
